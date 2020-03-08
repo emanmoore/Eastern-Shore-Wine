@@ -8,28 +8,12 @@
   
   <link rel="stylesheet" type="text/css" href="mystyle.css">
   
-  body{
-  background-color:gray;
-  border-style: dotted;
-  background-image:;
-}
-h1{
-  color:;
-  font-size:4em;
-    
-  
-}
-
+ 
 
 
 
   
-h2{
-  color:green;
-  
-}
- h2{text-decoration: underline;
-}
+
   
   
   
