@@ -10,7 +10,7 @@
     <style>
     body{
   background-color:;
-  border-style: dotted;
+  border: 1rem solid;
   
 }
 h1{
