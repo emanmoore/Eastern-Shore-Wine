@@ -40,11 +40,9 @@ h2{
     <img src="https://img-aws.ehowcdn.com/700x/cdn.onlyinyourstate.com/wp-content/uploads/2018/09/22496231_10155335590719160_8433887600457580485_o-700x467.jpg" height="150" width="400"/>
     
     
- <h2>
- Moscoto
- Riesling
- Merlot
-  </h2> 
+ <h2>Moscoto</h2>
+<h2>Riesling</h2>
+ <h2>Merlot</h2>
 
 
     </center>
