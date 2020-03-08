@@ -11,7 +11,7 @@
     body{
   background-color:gray;
   border-style: dotted;
-  background-image:;
+  
 }
 h1{
   color:black;
