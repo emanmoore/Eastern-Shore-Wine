@@ -14,7 +14,7 @@
   background-image:;
 }
 h1{
-  color:;
+  color:black;
   font-size:4em;
     
   
