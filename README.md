@@ -19,9 +19,7 @@ h1{
     
   }
 
-box-sizing{
-flex-basis: auto;
-}
+
 
 
 
