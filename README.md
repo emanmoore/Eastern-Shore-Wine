@@ -5,6 +5,33 @@
   
   <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
   <title>Eastern Shore Wine</title>
+  <link rel='stylesheet' href='styles.css'/>
+    
+    <style>
+    body{
+  background-color:gray;
+  border-style: dotted;
+  background-image:;
+}
+h1{
+  color:;
+  font-size:4em;
+    
+  
+}
+
+
+
+
+  
+h2{
+  color:green;
+  
+}
+ h2{text-decoration: underline;
+ </style>
+  
+  
    </head>
 <body>
   <center>
