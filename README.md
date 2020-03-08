@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   
-  <meta http-equiv="X-UA-Compatible" content="ie=edge"> <link rel="stylesheet" href="styles.css">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
   <title>Eastern Shore Wine</title>
   
    <link rel="stylesheet" href="styles.css">
