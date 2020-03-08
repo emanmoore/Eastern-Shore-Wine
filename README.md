@@ -5,20 +5,7 @@
   <meta name="EricMoore" ="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Eastern Shore Wine</title>
-  
-  <link rel="stylesheet" type="text/css" href="mystyle.css">
-  
- 
-
-
-
-  
-
-  
-  
-  
-  
-</head>
+  </head>
 <body>
   <center>
   <h1>Eastern Shore Wine</h1>
