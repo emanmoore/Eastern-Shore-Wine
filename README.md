@@ -17,7 +17,10 @@ h1{
   color:black;
   font-size:4em;
     
-  
+  }
+
+box-sizing{
+flex-basis: auto;
 }
 
 
